@@ -1,1 +1,1 @@
-web gunicorn muchi-dungeon:app --log-file -
+web python3 muchi-dungeon.py
